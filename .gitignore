@@ -1,1 +1,4 @@
-.env
+azure-pipelines.yml
+deployment.yaml
+namespace.yaml
+service.yaml
